@@ -1,0 +1,58 @@
+1£©
+string firstName = "John";
+string lastName = "Smith";
+
+string fullName = firstName + " " + lastName;
+
+2)
+string user = "James";
+string text = "Welcome to Wareagle Chat Group!";
+string buffer;
+
+string buffer = "(*" + user + "*)" + text;
+
+3)
+string user2 = "Kate";
+string text2 = "Hi there!";
+
+string buffer = "(*" + user2 + "*)" + text2 + "(*" + user + "*)" + text;
+
+4)
+string user3 = "Matt";
+string text3 = "War Eagle!";
+string text4 = "Hey!";
+
+string buffer = "(*" + user3 + "*)" + text3 + "\n" + text4 + 
+	"(*" + user2 + "*)" + text2 + "(*" + user + "*)" + text;
+
+5)
+string.size(): it returns the length of string.
+buffer.size(): 83
+
+6)
+buffer.clear(): length is 0
+
+7)
+string buffer = "(*Matt*)War Eagle! \nHey!(*Kate*)HI there! (*James*)Wecome to our WareagleChat Group!";
+	string s1 = "(*";
+	int firstOccurrence = buffer.find(s1);
+
+8)
+int secondOccurrence = buffer.find(s1, s1.length() +1);
+
+9)
+string s2 = "*)";
+int firstOccurrence1 = buffer.find(s2);
+string firstUser = buffer.substr(firstOccurrence +2, firstOccurrence1 - 2);
+
+10£©
+string secondUser = buffer.substr(secondOccurrence + 2,4);
+
+11)
+string  secondmessage = buffer.substr(32, 9);
+
+12)
+a. it will stop when it meets whitespace. result: Wareagle
+b. it will get whole stuff. result: Wareagle Chat Group
+
+
