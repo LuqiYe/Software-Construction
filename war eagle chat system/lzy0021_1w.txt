@@ -1,0 +1,255 @@
+output result:
+
+        =============================================
+        |     Welcome to War Eagle Chat System!     |
+        =============================================
+
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: n
+
+Please enter user name: Pual
+
+        ==================================================
+        |     Welcome to War Eagle Chat System,Pual!     |
+        ==================================================
+
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: p
+
+Enter message:
+Hello there,everyone!
+Welcome to our new chat group #newgroup.
+Feel free to post messages any time.
+#$
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: p
+
+Enter message:
+Our Bahamas cruise was super #endlessvacation!
+Great food and fun in the gulf.
+#$
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: n
+
+Please enter user name: Mary
+
+        ==================================================
+        |     Welcome to War Eagle Chat System,Mary!     |
+        ==================================================
+
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: p
+
+Enter message:
+Welcome to my new msg page!
+I'm new to this, so no flame please.
+#$
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: p
+
+Enter message:
+we did the Pinhoti trail last year.
+That was exhausting!
+#$
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: p
+
+Enter message:
+Hiking the Rockies in 5 days!
+Can't wait to head for the mountains #endlessvacation.
+#$
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: w
+
+        ============================
+        |     Mary's Wall Page     |
+        ============================
+
+
+Hiking the Rockies in 5 days!
+Can't wait to head for the mountains #endlessvacation.
+
+
+we did the Pinhoti trail last year.
+That was exhausting!
+
+                                More message? (yes/no): yes
+
+Welcome to my new msg page!
+I'm new to this, so no flame please.
+
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: n
+
+Please enter user name: Peter
+
+        ===================================================
+        |     Welcome to War Eagle Chat System,Peter!     |
+        ===================================================
+
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: p
+
+Enter message:
+Summer was cool.
+Still trying to adjust to the semester drill.
+#$
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: f
+
+Enter friend's name: Pual
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: p
+
+Enter message:
+We had a great time at the beach #endlessvacation!
+Not to mention scuba diving and sailing.
+#$
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: h
+
+        =============================
+        |     Peter's Home Page     |
+        =============================
+
+Peter >
+We had a great time at the beach #endlessvacation!
+Not to mention scuba diving and sailing.
+
+Peter >
+Summer was cool.
+Still trying to adjust to the semester drill.
+
+                                More message? (yes/no): yes
+Pual >
+Our Bahamas cruise was super #endlessvacation!
+Great food and fun in the gulf.
+
+Pual >
+Hello there,everyone!
+Welcome to our new chat group #newgroup.
+Feel free to post messages any time.
+
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: c
+
+Enter user's name: Pual
+
+        =======================================================
+        |     Welcome back to War Eagle Chat System,Pual!     |
+        =======================================================
+
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: f
+
+Enter friend's name: Peter
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: p
+
+Enter message:
+Best cruise ever!
+Hit some rough sea though.
+#$
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: t
+
+Enter hashtag topic: #endlessvacation
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: h
+
+        ============================
+        |     Pual's Home Page     |
+        ============================
+
+Pual >
+Best cruise ever!
+Hit some rough sea though.
+
+Peter >
+We had a great time at the beach #endlessvacation!
+Not to mention scuba diving and sailing.
+
+                                More message? (yes/no): yes
+Peter >
+Summer was cool.
+Still trying to adjust to the semester drill.
+
+Mary >
+Hiking the Rockies in 5 days!
+Can't wait to head for the mountains #endlessvacation.
+
+Pual >
+Our Bahamas cruise was super #endlessvacation!
+Great food and fun in the gulf.
+
+Pual >
+Hello there,everyone!
+Welcome to our new chat group #newgroup.
+Feel free to post messages any time.
+
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: c
+
+Enter user's name: Mary
+
+        =======================================================
+        |     Welcome back to War Eagle Chat System,Mary!     |
+        =======================================================
+
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: t
+
+Enter hashtag topic: #newgroup
+
+=====================================================================================================
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option: h
+
+        ============================
+        |     Mary's Home Page     |
+        ============================
+
+Mary >
+Hiking the Rockies in 5 days!
+Can't wait to head for the mountains #endlessvacation.
+
+Mary >
+we did the Pinhoti trail last year.
+That was exhausting!
+
+                                More message? (yes/no): yes
+Mary >
+Welcome to my new msg page!
+I'm new to this, so no flame please.
+
+Pual >
+Hello there,everyone!
+Welcome to our new chat group #newgroup.
+Feel free to post messages any time.
+
+Create new user(n), Post (p), Wall page (w), Home page (h), Add friend (f), Follow hashtag (t), Change user (c), Quit (q)
+Enter option:
